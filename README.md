@@ -8,7 +8,7 @@
 > 6. [Simple Calculator](https://youtu.be/HQCLzqhiT2w?si=2xUJWqBrSxCVMT05)
 > 7. [Memory Card Game](https://youtu.be/M0egyNvsN-Y?si=s7ng9pyBrxPP-jcT)
 
-Notes. emoji picker on vs code
+Notes. `emoji picker` on `Visual Studio Code`
 ```
 for windows
 
