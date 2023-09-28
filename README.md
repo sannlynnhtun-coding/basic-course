@@ -27,7 +27,9 @@ CTRL + CMD + Space
 > 10. [Notes App](https://youtu.be/n3U4jFbp05M?si=HmMkQiiiP1-lO4uN)
 > 11. [Theme Color Switcher](https://youtu.be/3Qr6-WHtIRc?si=F1rTGaSeAZVt7Jeq)
 > 12. [2048 Game](https://youtu.be/XM2n1gu4530?si=x9SBpzvoCLLye1Qj)
-> 13. [How to Publish an HTML Website on Netlify or GitHub Pages](https://www.freecodecamp.org/news/publish-your-website-netlify-github/)
 
-If you require assistance, please watch the video.
+#### Host Netlify or GitHub
+> - [How to Publish an HTML Website on Netlify or GitHub Pages](https://www.freecodecamp.org/news/publish-your-website-netlify-github/)
+
+> If you require assistance, please watch the video.
 > - [Host your site for free, with version control, staging, and more using Netlify](https://youtu.be/i9qCmQ2EeUA?si=oFYx3khIP9HKMCHu)
