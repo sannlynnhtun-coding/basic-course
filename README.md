@@ -19,6 +19,9 @@
 #### Host Netlify or GitHub
 > - [How to Publish an HTML Website on Netlify or GitHub Pages](https://www.freecodecamp.org/news/publish-your-website-netlify-github/)
 
+#### Host Vercel
+> - [How to host a static Html, CSS and JavaScript website on Vercel](https://youtu.be/WM8ICbqTQJw)
+
 > If you require assistance, please watch the video.
 > - [Host your site for free, with version control, staging, and more using Netlify](https://youtu.be/i9qCmQ2EeUA?si=oFYx3khIP9HKMCHu)
 
