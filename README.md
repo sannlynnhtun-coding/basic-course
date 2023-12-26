@@ -5,6 +5,7 @@
 > 2. [What is Backend?](https://youtu.be/XBu54nfzxAQ?si=fN9y0qgQgl_nS34e)
 > 3. [What is API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
 > 4. [What is Database?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
+> 5. [What is Cookie?](https://www.youtube.com/watch?v=yoE9-tNvhRs)
 
 #### Html, Css, JavaScript
 > 1. [HTML, CSS, and Javascript in 30 minutes](https://youtu.be/_GTMOmRrqkU?si=RNm4rZTmI33kD_oi)
