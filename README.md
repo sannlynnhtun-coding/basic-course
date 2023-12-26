@@ -1,11 +1,11 @@
 # basic-course
 
 #### What is ...?
-> 1. [What is Frontend?](https://youtu.be/WG5ikvJ2TKA?si=a4SXsoyG089Ll1yB)
-> 2. [What is Backend?](https://youtu.be/XBu54nfzxAQ?si=fN9y0qgQgl_nS34e)
-> 3. [What is API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
-> 4. [What is Database?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
-> 5. [What is Cookie?](https://www.youtube.com/watch?v=yoE9-tNvhRs)
+> 1. [Frontend](https://youtu.be/WG5ikvJ2TKA?si=a4SXsoyG089Ll1yB)
+> 2. [Backend](https://youtu.be/XBu54nfzxAQ?si=fN9y0qgQgl_nS34e)
+> 3. [API](https://www.youtube.com/watch?v=s7wmiS2mSXY)
+> 4. [Database](https://www.youtube.com/watch?v=s7wmiS2mSXY)
+> 5. [Cookie & Session](https://www.youtube.com/watch?v=K4UKj5htg-E)
 
 #### Html, Css, JavaScript
 > 1. [HTML, CSS, and Javascript in 30 minutes](https://youtu.be/_GTMOmRrqkU?si=RNm4rZTmI33kD_oi)
