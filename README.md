@@ -4,6 +4,7 @@
 > 1. [What is Frontend?](https://youtu.be/WG5ikvJ2TKA?si=a4SXsoyG089Ll1yB)
 > 2. [What is Backend?](https://youtu.be/XBu54nfzxAQ?si=fN9y0qgQgl_nS34e)
 > 3. [What is API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
+> 4. [What is Database?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
 
 #### Html, Css, JavaScript
 > 1. [HTML, CSS, and Javascript in 30 minutes](https://youtu.be/_GTMOmRrqkU?si=RNm4rZTmI33kD_oi)
