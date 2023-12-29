@@ -8,6 +8,7 @@
 > 5. [Cookie & Session](https://www.youtube.com/watch?v=K4UKj5htg-E)
 > 6. [GitHub](https://www.youtube.com/watch?v=4lkrx2U9f6I)
 > 7. [Html](https://www.youtube.com/watch?v=salY_Sm6mv4)
+> 8. [Css](https://www.youtube.com/watch?v=OEV8gMkCHXQ)
 
 #### Html, Css, JavaScript
 > 1. [HTML, CSS, and Javascript in 30 minutes](https://youtu.be/_GTMOmRrqkU?si=RNm4rZTmI33kD_oi)
