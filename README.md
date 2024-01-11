@@ -4,7 +4,7 @@
 > 1. [Frontend](https://youtu.be/WG5ikvJ2TKA?si=a4SXsoyG089Ll1yB)
 > 2. [Backend](https://youtu.be/XBu54nfzxAQ?si=fN9y0qgQgl_nS34e)
 > 3. [API](https://www.youtube.com/watch?v=s7wmiS2mSXY)
-> 4. [Database](https://www.youtube.com/watch?v=s7wmiS2mSXY)
+> 4. [Database](https://youtu.be/j09EQ-xlh88)
 > 5. [Cookie & Session](https://www.youtube.com/watch?v=K4UKj5htg-E)
 > 6. [GitHub](https://www.youtube.com/watch?v=4lkrx2U9f6I)
 > 7. [Html](https://www.youtube.com/watch?v=salY_Sm6mv4)
