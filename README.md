@@ -16,7 +16,8 @@
 
 ------------
 C#
-   - [Blazor](https://youtu.be/QXxNlpjnulI)
+- [ASP.NET Core](https://youtu.be/9y64R5-8APM)
+- [Blazor](https://youtu.be/QXxNlpjnulI)
 
 #### Html, Css, JavaScript
 > 1. [HTML, CSS, and Javascript in 30 minutes](https://youtu.be/_GTMOmRrqkU?si=RNm4rZTmI33kD_oi)
