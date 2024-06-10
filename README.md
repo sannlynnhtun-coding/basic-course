@@ -13,6 +13,9 @@
 > 10. [Microservices](https://youtu.be/lL_j7ilk7rc)
 > 11. [Microservices vs Monolithic Architecture](https://youtu.be/6-Wu178sOEE?si=qacGQubnhsCc5_3M)
 > 12. [C#](https://youtu.be/BcMQavJd-tY)
+------------
+
+[Async JavaScript](https://www.youtube.com/watch?v=wdvruTuWvW8&list=PLRD1Niz0lz1sdjsiBsYN6nT1aJQTWvF-a)
 
 ------------
 C#
