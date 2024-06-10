@@ -15,7 +15,11 @@
 > 12. [C#](https://youtu.be/BcMQavJd-tY)
 ------------
 
-[Async JavaScript](https://www.youtube.com/watch?v=wdvruTuWvW8&list=PLRD1Niz0lz1sdjsiBsYN6nT1aJQTWvF-a)
+[Async JavaScript Part 1: What is AJAX?](https://www.youtube.com/watch?v=wdvruTuWvW8)
+[Async JavaScript Part 2: Async vs Sync Explained!](https://www.youtube.com/watch?v=wYRw8f-wrco)
+[Async JavaScript Part 3: Async Callbacks](https://www.youtube.com/watch?v=3SxxbyWUmVE)
+[Async JavaScript Part 4: Promises](https://www.youtube.com/watch?v=slIJj-zbs_M)
+[Async JavaScript Part 5: Async and Await](https://www.youtube.com/watch?v=2MJnTmoAdwI)
 
 ------------
 C#
