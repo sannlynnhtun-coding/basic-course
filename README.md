@@ -14,6 +14,7 @@
 > 11. [Microservices vs Monolithic Architecture](https://youtu.be/6-Wu178sOEE?si=qacGQubnhsCc5_3M)
 > 12. [C#](https://youtu.be/BcMQavJd-tY)
 > 13. [Supabase](https://youtu.be/zBZgdTb-dns)
+> 14. [SQL](https://youtu.be/zsjvFFKOm3c)
 
 ------------
 
