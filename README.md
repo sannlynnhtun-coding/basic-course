@@ -19,7 +19,8 @@
 
 ------------
 
-[MySQL]https://youtu.be/5OdVJbNCSso)
+[MySQL](https://youtu.be/5OdVJbNCSso)
+[Linux System Administration Full Course](https://www.youtube.com/watch?v=UCr04qIB7uc)
 
 ------------
 
