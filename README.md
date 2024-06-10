@@ -73,3 +73,78 @@ for Mac
 
 CTRL + CMD + Space
 ```
+
+🎨 Looking for the Best Resources for Front End Design? ❤️
+
+
+🌈 Color Sites:
+1. colorhunt.co
+2. klart.io
+3. color.adobe.com
+4. webkul.github.io
+5. pigment.shapefactory.co 
+
+💻 Sites To Download Fonts:
+1. dafont.com
+2. 1001fonts.com 
+3. fontsquirrel.com
+4. fontfreak.com/fonts-new.htm
+
+🖼️ Sites To Download Vector Logos:
+1. seeklogo.com
+2. logovector.net
+3. logotypes101.com
+4. logos-vector.com
+
+🔵 Sites To Download Icons:
+1. flaticon.com
+2. freeicons.io
+3. iconstore.co
+4. iconfinder.com
+5. digitalnomadicons.com
+6. iconstore.co
+
+🖌️ Brushes Download Sites:
+1. brushking.eu
+2. brusheezy.com/brushes
+3. myphotoshopbrushes.com
+4. fbrushes.com
+5. gfxfever.com
+
+📁 Sites To Download Files:
+1. freepik.com
+2. all-free-download.com
+3. vecteezy.com
+4. freeimages.com
+
+📸 Sites To Download Mockups:
+1. mockupsforfree.com
+2. mockupworld.co
+3. graphicburger.com
+4. zippypixels.com
+
+✨ Inspiration Sites:
+1. inspirationde.com
+2. designspiration.net
+3. pinterest.com
+4. dribbble.com
+
+🎥 Video Sites:
+1. mixkit.co
+2. coverr.co
+3. motionplaces.com
+4. videezy.com
+
+🖼️ Photo Sites Without Background:
+1. cleanpng.com
+2. pngimg.com
+3. footyrenders.com
+4. pngtree.com
+
+📷 Photo Sites:
+1. unsplash.com
+2. pexels.com
+3. pixabay.com
+4. stocksnap.io
+5. burst.shopify.com.
+
