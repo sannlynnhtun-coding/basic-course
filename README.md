@@ -26,7 +26,7 @@
 - [Node.js](https://youtu.be/32M1al-Y6Ag)
 - [Express.js](https://www.youtube.com/watch?v=nH9E25nkk3I)
 - [React.js](https://www.youtube.com/watch?v=lAFbKzO-fss)
-
+- [Next.js](https://youtu.be/Y6KDk5iyrYE)
 
 ---
 
