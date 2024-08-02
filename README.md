@@ -20,10 +20,9 @@
 
 ------------
 
-## Databases
-- [MySQL](#MySQL)
+## Tech Stack
 
-## Express.js
+- [MySQL](#MySQL)
 - [Express.js](https://www.youtube.com/watch?v=nH9E25nkk3I)
 
 
