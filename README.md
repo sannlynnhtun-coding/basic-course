@@ -21,7 +21,7 @@
 ------------
 
 ## Databases
-1. [MySQL](MySQL)
+1. [MySQL](#MySQL)
 
 ### MySQL
 
