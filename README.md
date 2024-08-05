@@ -19,37 +19,39 @@
 
 ------------
 
-## Tech Stack
-
-- [MySQL](#MySQL)
+## Database:
+- [MySQL](https://youtu.be/5OdVJbNCSso)
 - [MongoDB](https://youtu.be/c2M-rlkkT5o)
+
+## Backend:
 - [Node.js](https://youtu.be/32M1al-Y6Ag)
 - [Express.js](https://www.youtube.com/watch?v=nH9E25nkk3I)
-- [React.js](https://www.youtube.com/watch?v=lAFbKzO-fss)
 - [Next.js](https://youtu.be/Y6KDk5iyrYE)
+- C#
+  - [ASP.NET Core](https://youtu.be/9y64R5-8APM)
+  - [Blazor](https://youtu.be/QXxNlpjnulI)
+
+## Frontend:
+- [React.js](https://www.youtube.com/watch?v=lAFbKzO-fss)
+- JavaScript
+  - [Async JavaScript Part 1: What is AJAX?](https://www.youtube.com/watch?v=wdvruTuWvW8)
+  - [Async JavaScript Part 2: Async vs Sync Explained!](https://www.youtube.com/watch?v=wYRw8f-wrco)
+  - [Async JavaScript Part 3: Async Callbacks](https://www.youtube.com/watch?v=3SxxbyWUmVE)
+  - [Async JavaScript Part 4: Promises](https://www.youtube.com/watch?v=slIJj-zbs_M)
+  - [Async JavaScript Part 5: Async and Await](https://www.youtube.com/watch?v=2MJnTmoAdwI)
+
+## Infrastructure:
+- [Linux System Administration Full Course](https://www.youtube.com/watch?v=UCr04qIB7uc)
+
+## General Knowledge:
 - [The Right Way To Build REST APIs](https://www.youtube.com/watch?v=CVBpYfPKGlE)
 - [System Desing Concept Course](https://youtu.be/F2FmTdLtb_4?si=PMCky0ZeWbwYyL07)
 
----
-
-### MySQL
-
-> 1. [MySQL](https://youtu.be/5OdVJbNCSso)
-> 2. [Linux System Administration Full Course](https://www.youtube.com/watch?v=UCr04qIB7uc)
 
 
 ------------
 
-1. [Async JavaScript Part 1: What is AJAX?](https://www.youtube.com/watch?v=wdvruTuWvW8)
-2. [Async JavaScript Part 2: Async vs Sync Explained!](https://www.youtube.com/watch?v=wYRw8f-wrco)
-3. [Async JavaScript Part 3: Async Callbacks](https://www.youtube.com/watch?v=3SxxbyWUmVE)
-4. [Async JavaScript Part 4: Promises](https://www.youtube.com/watch?v=slIJj-zbs_M)
-5. [Async JavaScript Part 5: Async and Await](https://www.youtube.com/watch?v=2MJnTmoAdwI)
 
-------------
-C#
-- [ASP.NET Core](https://youtu.be/9y64R5-8APM)
-- [Blazor](https://youtu.be/QXxNlpjnulI)
 
 #### Html, Css, JavaScript
 > 1. [HTML, CSS, and Javascript in 30 minutes](https://youtu.be/_GTMOmRrqkU?si=RNm4rZTmI33kD_oi)
