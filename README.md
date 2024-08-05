@@ -1,4 +1,4 @@
-# basic-course
+# Basic Course
 
 #### What is ...?
 > 1. [Frontend](https://youtu.be/WG5ikvJ2TKA?si=a4SXsoyG089Ll1yB)
