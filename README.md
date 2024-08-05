@@ -45,13 +45,13 @@
     - [Notes App](https://youtu.be/n3U4jFbp05M?si=HmMkQiiiP1-lO4uN)
     - [Theme Color Switcher](https://youtu.be/3Qr6-WHtIRc?si=F1rTGaSeAZVt7Jeq)
     - [2048 Game](https://youtu.be/XM2n1gu4530?si=x9SBpzvoCLLye1Qj)
-- [React.js](https://www.youtube.com/watch?v=lAFbKzO-fss)
 - JavaScript
   - [Async JavaScript Part 1: What is AJAX?](https://www.youtube.com/watch?v=wdvruTuWvW8)
   - [Async JavaScript Part 2: Async vs Sync Explained!](https://www.youtube.com/watch?v=wYRw8f-wrco)
   - [Async JavaScript Part 3: Async Callbacks](https://www.youtube.com/watch?v=3SxxbyWUmVE)
   - [Async JavaScript Part 4: Promises](https://www.youtube.com/watch?v=slIJj-zbs_M)
   - [Async JavaScript Part 5: Async and Await](https://www.youtube.com/watch?v=2MJnTmoAdwI)
+- [React.js](https://www.youtube.com/watch?v=lAFbKzO-fss)
 - Host Netlify or GitHub
   - [How to Publish an HTML Website on Netlify or GitHub Pages](https://www.freecodecamp.org/news/publish-your-website-netlify-github/)
 - Host Vercel
