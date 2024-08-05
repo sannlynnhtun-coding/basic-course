@@ -52,6 +52,12 @@
   - [Async JavaScript Part 3: Async Callbacks](https://www.youtube.com/watch?v=3SxxbyWUmVE)
   - [Async JavaScript Part 4: Promises](https://www.youtube.com/watch?v=slIJj-zbs_M)
   - [Async JavaScript Part 5: Async and Await](https://www.youtube.com/watch?v=2MJnTmoAdwI)
+- Host Netlify or GitHub
+  - [How to Publish an HTML Website on Netlify or GitHub Pages](https://www.freecodecamp.org/news/publish-your-website-netlify-github/)
+- Host Vercel
+  - [How to host a static Html, CSS and JavaScript website on Vercel](https://youtu.be/WM8ICbqTQJw)
+  - If you require assistance, please watch the video.
+    - [Host your site for free, with version control, staging, and more using Netlify](https://youtu.be/i9qCmQ2EeUA?si=oFYx3khIP9HKMCHu)
 
 ## Infrastructure:
 - [Linux System Administration Full Course](https://www.youtube.com/watch?v=UCr04qIB7uc)
@@ -64,21 +70,6 @@
 
 ------------
 
-
-
-
-
-#### Html, Css, JavaScript Projects
-
-
-#### Host Netlify or GitHub
-> - [How to Publish an HTML Website on Netlify or GitHub Pages](https://www.freecodecamp.org/news/publish-your-website-netlify-github/)
-
-#### Host Vercel
-> - [How to host a static Html, CSS and JavaScript website on Vercel](https://youtu.be/WM8ICbqTQJw)
-
-> If you require assistance, please watch the video.
-> - [Host your site for free, with version control, staging, and more using Netlify](https://youtu.be/i9qCmQ2EeUA?si=oFYx3khIP9HKMCHu)
 
 Notes. `emoji picker` on `Visual Studio Code`
 ```
@@ -95,7 +86,7 @@ for Mac
 CTRL + CMD + Space
 ```
 
-🎨 Looking for the Best Resources for Front End Design? ❤️
+### 🎨 Looking for the Best Resources for Front End Design? ❤️
 
 
 🌈 Color Sites:
