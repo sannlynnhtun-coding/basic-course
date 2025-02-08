@@ -1,7 +1,7 @@
 # Basic Course
 
 ## What is ...?
-> 2. [What is Programming?](https://www.youtube.com/watch?v=FCMxA3m_Imc)
+> 1. [What is Programming?](https://www.youtube.com/watch?v=FCMxA3m_Imc)
 > 3. [Types of Programming Languages](https://www.youtube.com/watch?v=aYjGXzktatA)
 > 4. [Every Programming Language Explained in 5 minutes](https://www.youtube.com/watch?v=BqfPgJwlUqY)
 > 1. [UML use case diagrams](https://youtu.be/4emxjxonNRI)
